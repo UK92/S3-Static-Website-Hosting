@@ -1,5 +1,4 @@
-# S3-Static-Website-Hosting
-# Amazon S3 Static Website
+# Amazon S3 Static Website Hosting
   1. create an S3 bucket
   2. Enable website and set index.html and error.html
   3. upload Sample HTML page to index.html
